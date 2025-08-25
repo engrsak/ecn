@@ -2,7 +2,6 @@
 
 A simple AngularJS web application for supply and demand curve calculations, quizzes, and key notes.
 
----
 
 ## Features
 
@@ -10,13 +9,11 @@ A simple AngularJS web application for supply and demand curve calculations, qui
 - Interactive quizzes for practice
 - Key notes for quick study
 
----
 
 ## Screenshot
 
 ![App Screenshot](images/screenshot.png)
 
----
 
 ## Installation
 
